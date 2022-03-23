@@ -1,1 +1,1 @@
-Mathematical model for Individualized Bayesian Knowledge Tracing, adapted from [this paper](https://link.springer.com/chapter/10.1007/978-3-642-39112-5_18).
+Mathematical model for Individualized Bayesian Knowledge Tracing (BKT), adapted from [this paper](https://link.springer.com/chapter/10.1007/978-3-642-39112-5_18). This is a pet project, there are other well-maintained BKT code in [Python](https://github.com/CAHLR/pyBKT) and other languages.
